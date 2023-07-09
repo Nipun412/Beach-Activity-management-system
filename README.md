@@ -27,6 +27,7 @@ This page occurs when we select Do booking. This page helps customers to do book
 
 ![image](https://github.com/Nipun412/Beach-Activity-management-system/assets/123533376/f52901bc-332f-4384-8db5-b60339e5a75c)
 
+![image](https://github.com/Nipun412/Beach-Activity-management-system/assets/123533376/2dbd2888-f8d9-4a64-a4c4-e8b9e201d212)
 
 **Cancel Booking:**
 
